@@ -1,4 +1,4 @@
-# Site Web para prestação de Serviços conectando Clientes  na palma da Mão.
+# Site Web para prestação de Serviços conectando Clientes  na palma da Mão. QUICK FIX
 ## 1.0 Descrição do Curso.
 ````
 Curso: Sistema de Informação EAD
