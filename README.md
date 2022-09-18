@@ -50,6 +50,44 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 
 
 
+### Requisitos não Funcionais
+
+|ID     | Descrição do Requisito  |
+|-------|-------------------------|
+|RNF-001| Interface Gráfica |
+|RNF-002| Documentação do Projeto objetiva |
+|RNF-003| Dever prover Confiabilidade|
+|RNF-004| Disponibilidade de  24 horas sete dias por Semana |
+|RNF-005| A plataforma deve ser Web|
+|RNF-006| Tratamento de mensagem de Erro | 
+|RNF-007| Tempo de Desenvolvimento do Projeto |
+|RNF-008| Tratamento de Exceções |
+|RNF-009| Linguagem Utilizada de Banco de Dados | 
+|RNF-0010| Linguagem de Programação Utilizada | 
+|RNF-0011| Segurança | MÉDIA | 
+|RNF-0012| Processar requisições do usuário em no máximo 4s |
+|RNF-0013| Perfomance de Resposta de Tempo | ALTA |
+|RNF-0014| Perfomance de Capacidade de Armazenamento |
+|RNF-0015| Envio de Orçamento | 
+## Restrições
+
+ O projeto contemplará as seguintes **restrições** de acordos com cada itens que segue apresentados na vizualização abaixo.
+
+|ID| Restrição                                                                                                              |
+|--|------------------------------------------------------------------------------------------------------------------------|
+|01| Os prazos referentes ao cronograma de entrega do projeto, ou seja, quanto tempo vai levar para que o projeto seja entregue.|
+|02| Os prazos de cada fase e entrega final, ao qual deverá acontecer prevista no cronograma de atividade do curso.         |
+|03| Garantir os objetivos, entregas e tarefas bem específicas, ou seja, tudo que está aprovado e listado para ser entregue ao final do projeto.|
+|04| O projeto não tem orçamento previsto no instante inicial                                                               |
+|05| O projeto deverá ser executado exclusivamente por todos os membros do grupo.                                           |
+|06| NO projeto deverá ser entregue em no máximo até o fim do período do semestre.                                          |
+|07| Em situação que algum integrante saia do projeto durante o seu desenvolvimento, deve-se imediatamente procurar outro para substituir, caso não seja possível repor o membro as tarefas de desenvolvimento do mesmo serão distribuídas entre todos do projeto para garantir que o projeto seja concluído e entregue no prazo estipulado.|                                            
+
+
+
+
+
+
 
 
 
