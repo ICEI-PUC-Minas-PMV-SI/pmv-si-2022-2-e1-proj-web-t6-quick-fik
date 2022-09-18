@@ -69,6 +69,7 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 |RNF-0013| Perfomance de Resposta de Tempo | ALTA |
 |RNF-0014| Perfomance de Capacidade de Armazenamento |
 |RNF-0015| Envio de Orçamento | 
+|RNF-0016| Poderá ser identificado mais ao logo do desenvolvimento do Projeto | 
 ## Restrições
 
  O projeto contemplará as seguintes **restrições** de acordos com cada itens que segue apresentados na vizualização abaixo.
@@ -81,7 +82,8 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 |04| O projeto não tem orçamento previsto no instante inicial                                                               |
 |05| O projeto deverá ser executado exclusivamente por todos os membros do grupo.                                           |
 |06| NO projeto deverá ser entregue em no máximo até o fim do período do semestre.                                          |
-|07| Em situação que algum integrante saia do projeto durante o seu desenvolvimento, deve-se imediatamente procurar outro para substituir, caso não seja possível repor o membro as tarefas de desenvolvimento do mesmo serão distribuídas entre todos do projeto para garantir que o projeto seja concluído e entregue no prazo estipulado.|                                            
+|07| Em situação que algum integrante saia do projeto durante o seu desenvolvimento, deve-se imediatamente procurar outro para substituir, caso não seja possível repor o membro as tarefas de desenvolvimento do mesmo serão distribuídas entre todos do projeto para garantir que o projeto seja concluído e entregue no prazo estipulado.|  
+|08| Poderá ser adicionada mais Restrições ao logo do Desenvolvimento do Projeto.                                           |
 
 
 
