@@ -1,11 +1,11 @@
 # Site Web para prestação de Serviços conectando Clientes  na palma da Mão. QUICK FIX
-## 1.0 Descrição do Curso.
+# Descrição do Curso.
 ````
 Curso: Sistema de Informação EAD
 Proposta da Disciplina: Projeto WEB
 Tempo de Execursão: Primeiro Semestre
 ````
-## 2.0  Integrantes do Projeto WEB.
+# Integrantes do Projeto WEB.
 ````
 André Calebe Santos de Andrade
 Carlos Alberto Morais Junior
@@ -14,43 +14,38 @@ Hiran Farias de Lima Júnior
 Josenilson Silva Santos
 Ulisses Melo Jacinto
 ````
-## 3.0  Professora Orientadora do Projeto WEB
-````
+# Professora Orientadora do Projeto WEB
+
 Simone  de Assis Alves da Silva
-````
-## 4.0 Fases de Documentação do Projeto WEB
-````
-# Documentação de Contesto do  Projeto
 
-# Especificação do Projeto
+# Fases de Documentação  e Contexto do Projeto WEB
+## Introdução
 
-# Metodologia Usada no Projeto
+Nos tempos atuais ainda existem muitas pessoas que dependem de prestadores de serviços, os famosos “Maridos de aluguel” que atuam de maneira rápida e facilitada para resolver problemas do dia a dia. Porém esses “Maridos de aluguel” não são facilmente encontrados e também não encontram seus clientes com eficiência.
 
-#Projeto de Interface
+## Problema
 
-#Arquitetura da Solução WEB
+Infelizmente, hoje em dia mesmo com tanta conexão e interação por meio da internet, ainda é difícil fazer com que os prestadores de serviço consigam divulgar o seu trabalho e o cliente consiga achar o serviço que está procurando de maneira unificada e facilitada.   
 
-# Template Padrão do Site
+## Objetivo do Projeto
 
-# Programação de Funcionalidade
+O projeto tem como objetivo conectar pessoas que possam prestar serviços caseiros, sejam esses os mais variados possíveis, e pessoas que desejam esses serviços oferecidos por falta de conhecimento, tempo, ou qualquer motivação.
 
-# Plano de Testes do Software
+## Justicativa
 
-# Registro de Testes de Software
+A justificativa do projeto se dá em necessidade em conectar profissionais qualificados para prestação de serviços na forma de marido de aluguel, assim suprindo os anseios da sociedade em geral que necessita dos serviços de diversas naturezas a serem prestados.  Nesse modelo de negócios o profissional deverá ser capacitado para a prestação de PEQUENOS serviços em diversas áreas com segurança.  Os profissionais deverão conseguir executar desde trabalhos mais simples, como colocação de cortinas, instalação de varais, pequenas pinturas e montagem e desmontagem de móveis, por exemplo, até os mais técnicos, como troca de chuveiro, instalação de torneira elétrica, troca de fechadura, pequenos reparos elétricos e hidráulicos etc. É por isso que esse profissional também é chamado de faz tudo.  OS chamados marido de aluguel ajuda a resolver o problema de forma simples, rápida e ágil. Com isso os clientes terão uma plataforma com diversos prestadores de serviços cadastrados. Assim, ao solicitar um orçamento pelos clientes, os prestadores mais próximos da localização da solicitação poderão encaminhar seus orçamentos, dando agilidade e rapidez ao processo. Os profissionais contratados passam por um processo seletivo criterioso. Dessa forma, é possível garantir a idoneidade dos prestadores de serviço. Além disso, a visita é monitorada por meio do aplicativo. Isso garante que você tenha total segurança ao receber os prestadores. 
+Segundo dados da Fundação Getúlio Vargas (FGV) são mais de 15 milhões de reformas e manutenções feitas anualmente no país, totalizando cerca de 60 bilhões de reais por ano.
 
-# Plano de Testes de Usuabilidade
+Portanto, como já dito anteriormente, todos os profissionais são especialistas em suas áreas de atuação. A cada atendimento, o prestador será avaliado, para garantir a boa qualidade dos serviços.
 
-# Registro de Testes de Usabilidade
+## Público Alvo
 
-# Apresentação do Projeto
+O público alvo contempla pessoas que precisam de manutenção nos seus lares mas não possuem conhecimento técnico suficiente para realizá-los, e também profissionais na área de manutenção doméstica que desejam aumentar os seus leads. Tendo isso como base, a Quick-fix realizará a conexão entre servidor e cliente, disponibilizando um portal de comunicação e requisição de serviço para o servidor, além de garantir a segurança do consumidor.
 
-# Referências
 
-````
+# Especificações do Projeto
 
-## Código Fonte da Aplicação
-
-````
+Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profissionais da área da saúde, familiares e amigos próximos, foi possível identificar grande aceitabilidade e entusiasmo com a criação de uma plataforma Web que aborde assuntos relacionados a transtornos de ansiedade e depressão, com conteúdo de fácil acesso e claro entendimento. 
 
 
 
