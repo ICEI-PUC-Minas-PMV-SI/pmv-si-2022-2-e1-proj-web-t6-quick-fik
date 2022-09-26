@@ -47,7 +47,10 @@ O público alvo contempla pessoas que precisam de manutenção nos seus lares ma
 
 Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profissionais da área da saúde, familiares e amigos próximos, foi possível identificar grande aceitabilidade e entusiasmo com a criação de uma plataforma Web que aborde assuntos relacionados a transtornos de ansiedade e depressão, com conteúdo de fácil acesso e claro entendimento. 
 
+## Personas
 
+
+## Requesito funcionais
 
 
 ### Requisitos não Funcionais
@@ -83,7 +86,10 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 |05| O projeto deverá ser executado exclusivamente por todos os membros do grupo.                                           |
 |06| No projeto deverá ser entregue em no máximo até o fim do período do semestre.                                          |
 |07| Em situação que algum integrante saia do projeto durante o seu desenvolvimento, deve-se imediatamente procurar outro para substituir, caso não seja possível repor o membro as tarefas de desenvolvimento do mesmo serão distribuídas entre todos do projeto para garantir que o projeto seja concluído e entregue no prazo estipulado.|  
-|08| Poderá ser adicionada mais Restrições ao longo do Desenvolvimento do Projeto.                                           |
+|08| Poderá ser adicionada mais Restrições ao longo do Desenvolvimento do Projeto.    
+
+
+## Histórias de Usuários|
 
 
 
