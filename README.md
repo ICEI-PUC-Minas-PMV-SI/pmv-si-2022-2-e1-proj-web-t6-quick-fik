@@ -51,6 +51,10 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 
 
 ## Requesito funcionais
+ Mostrar o histórico dos serviços prestados na tela do prestador de serviço. PRIORIDADE: MÉDIA
+Fazer o login do usuário na plataforma e identificar se ele é um prestador de serviço ou um cliente. PRIORIDADE: ALT cliente ao se logar vai ver uma lista de todos os prestadores de serviço cadastrados na plataforma e poderá escolher qual atende melhor sua necessidade.  PRIORIDADE: ALTA
+O Cliente poderá escolher um prestador de serviço que atenda sua necessidade e ao fazer isso o prestador do serviço deverá aceitar a oferta para que o contrato seja feito.  PRIORIDADE: ALTA
+Ao se logar o prestador de serviço poderá visualizar uma lista com todos os pedidos de prestação de serviço para ele e poderá aceitar ou recusar os pedidos.  PRIORIDADE: ALTA
 
 
 ### Requisitos não Funcionais
@@ -88,8 +92,13 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 |07| Em situação que algum integrante saia do projeto durante o seu desenvolvimento, deve-se imediatamente procurar outro para substituir, caso não seja possível repor o membro as tarefas de desenvolvimento do mesmo serão distribuídas entre todos do projeto para garantir que o projeto seja concluído e entregue no prazo estipulado.|  
 |08| Poderá ser adicionada mais Restrições ao longo do Desenvolvimento do Projeto.    
 
+## Histórias de Usuários
 
-## Histórias de Usuários|
+EU, COMO pessoa que vai prestar o serviço, QUERO uma tela para visualizar os possíveis clientes que eu poderia prestar serviço com base nos pedidos feitos, e um botão para aceitar ou recusar o serviço , PARA QUE eu possa fechar o negócio com o cliente.
+ 
+EU, COMO cliente, QUERO uma tela para cadastrar minha necessidade, outra para visualizar os possíveis prestadores de serviço que poderiam atender à minha necessidade, PARA QUE eu possa fechar o negócio com o prestador.
+
+
 
 
 
