@@ -49,6 +49,13 @@ Por intermédio de pesquisas feitas junto a pacientes psiquiátricos, profission
 
 ## Personas
 
+Nome: Maria da Silva
+Idade: 58
+Trabalho: dona de casa
+Estado civil: solteira
+Necessidade: Maria tem um chuveiro elétrico que recentemente deu defeito e ela não tem ideia do que fazer para consertar, Ela não conhece ninguém nem tem noção de como efetuar o reparo por si mesma então ela está desesperada a procura de alguém que possa solucionar o problema dela 
+
+
 
 ## Requesito funcionais
  Mostrar o histórico dos serviços prestados na tela do prestador de serviço. PRIORIDADE: MÉDIA
