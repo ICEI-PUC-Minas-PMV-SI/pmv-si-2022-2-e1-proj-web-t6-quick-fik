@@ -63,7 +63,7 @@ Ao se logar o prestador de serviço poderá visualizar uma lista com todos os pe
 |-------|-------------------------|
 |RNF-001| Interface Gráfica |
 |RNF-002| Documentação do Projeto objetiva |
-|RNF-003| Dever prover Confiabilidade|
+|RNF-003| Deve prover Confiabilidade|
 |RNF-004| Disponibilidade de  24 horas sete dias por Semana |
 |RNF-005| A plataforma deve ser Web|
 |RNF-006| Tratamento de mensagem de Erro | 
