@@ -75,7 +75,7 @@ Ao se logar o prestador de serviço poderá visualizar uma lista com todos os pe
 |RNF-0012| Processar requisições do usuário em no máximo 4s |
 |RNF-0013| Perfomance de Resposta de Tempo | ALTA |
 |RNF-0014| Perfomance de Capacidade de Armazenamento |
-|RNF-0015| Envio de Orçamento | 
+|RNF-0015| Envio de Orçamento. | 
 |RNF-0016| Poderá ser identificado mais ao longo do Desenvolvimento do Projeto | 
 ## Restrições
 
