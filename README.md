@@ -55,7 +55,33 @@ Trabalho: dona de casa
 Estado civil: solteira
 Necessidade: Maria tem um chuveiro elétrico que recentemente deu defeito e ela não tem ideia do que fazer para consertar, Ela não conhece ninguém nem tem noção de como efetuar o reparo por si mesma então ela está desesperada a procura de alguém que possa solucionar o problema dela 
 
+Nome: Juan Filho
+Idade: 39
+Trabalho: juiz
+Estado civil: solteiro
+Necessidade: João mora sozinho e tem problemas frequentemente com o encanamento da sua casa, ele não tem a expertise necessária para resolver o problema por si mesmo e o pior mesmo que tivesse não teria tempo suficiente para fazer o reparo.
 
+Nome: João Paulo
+Idade: 19 anos
+Ocupação: Estudante
+Estado Civil: Solteiro
+
+João é um jovem natural da cidade do Rio de Janeiro que, recentemente, foi aprovado na universidade federal de São Paulo. Ao chegar em sua nova moradia que alugou próxima à faculdade, percebeu que o local precisaria de alguns reparos e melhorias para seu melhor conforto, como por exemplo: 
+Instalação de um chuveiro novo
+Instalação de novos eletrodomésticos
+Conserto de algumas tomadas antigas que não funcionam
+Limpeza do filtro do ar condicionado
+
+Apesar de serem trabalhos relativamente simples, João tem medo de fazer da maneira errada ou esquecer algum detalhe e acabar pagando mais caro por seu erro. Por isso, prefere que alguém que já tenha expertise realize o trabalho. No entanto, João é novo na cidade e não conhece ninguém que se encaixe nesses requisitos.
+
+Nome: Cleber Matheus 
+Idade: 38 anos
+Ocupação: Encanador 
+Estado Civil: Solteiro
+
+João é um jovem natural da cidade de Ibiá, interior de Minas Gerais, formado em encanador industrial, é autônomo e procura firmar uma base de clientes e achar novos. Por Ibiá ser uma cidade muito pequena, ele tem dificuldade em encontrar novos clientes  : 
+
+Instalação e manutenção de encanamentos
 
 ## Requesito funcionais
  Mostrar o histórico dos serviços prestados na tela do prestador de serviço. PRIORIDADE: MÉDIA
