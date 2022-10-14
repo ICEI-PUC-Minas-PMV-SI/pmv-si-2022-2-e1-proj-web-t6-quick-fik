@@ -1,13 +1,13 @@
-#Estuturação dos Requesitos do Sistema.
+##Estuturação dos Requisitos do Sistema.
 
-## Requesito funcionais
+# Requesito funcionais
  Mostrar o histórico dos serviços prestados na tela do prestador de serviço. PRIORIDADE: MÉDIA
 Fazer o login do usuário na plataforma e identificar se ele é um prestador de serviço ou um cliente. PRIORIDADE: ALT cliente ao se logar vai ver uma lista de todos os prestadores de serviço cadastrados na plataforma e poderá escolher qual atende melhor sua necessidade.  PRIORIDADE: ALTA
 O Cliente poderá escolher um prestador de serviço que atenda sua necessidade e ao fazer isso o prestador do serviço deverá aceitar a oferta para que o contrato seja feito.  PRIORIDADE: ALTA
 Ao se logar o prestador de serviço poderá visualizar uma lista com todos os pedidos de prestação de serviço para ele e poderá aceitar ou recusar os pedidos.  PRIORIDADE: ALTA
 
 
-### Requisitos não Funcionais
+# Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |
 |-------|-------------------------|
