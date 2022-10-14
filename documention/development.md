@@ -1,4 +1,5 @@
-#Estuturação dos Requisitos do Sistema.
+
+# Estuturação dos Requisitos do Sistema
 
 # Requesito funcionais
  Mostrar o histórico dos serviços prestados na tela do prestador de serviço. PRIORIDADE: MÉDIA
