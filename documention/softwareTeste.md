@@ -9,12 +9,11 @@ Enumere quais cenários de testes foram selecionados para teste. Neste tópico o
 Comente sobre as ferramentas de testes utilizadas.
  
 > **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+> - [IBM - desenvolvendo  Planos de Teste](https://www.ibm.com/docs/pt-br/elm/6.0.5?topic=testing-developing-test-plans)
+> - [Práticas e Técnicas de Testes Ágeis](https://www.fm2s.com.br/testes-ageis-quais-as-maneiras-de-testar-em-uma-equipe-agil/)
+> -  [Teste de Software: Conceitos e tipos de testes](https://www.devmedia.com.br/guia/tecnicas-e-fundamentos-de-testes-de-software/34403)
+> - [Ferramentas de Test para Java Script](https://jestjs.io/pt-BR/)
+> - [PrimeControl](https://www.primecontrol.com.br/10-ferramentas-de-automacao-de-testes-mais-usadas/)
 
 # Registro de Testes de Software
 
@@ -25,4 +24,4 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
 
 > **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+> - [Ferramentas de Test para Java Script](https://jestjs.io/pt-BR/)
