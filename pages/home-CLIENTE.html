@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="script.js" type="text/javascript"></script>
 </head>
 <body>
     
@@ -54,66 +55,52 @@
                 <div class="item">
                     <div class="titulo-painel-1-item">
                         <h2 class="titulo-esquerda-item">Status</h2>
-                        <p class="titulo-esquerda-subitem">Buscando serviços </p>
+                        <select>
+                            <option>Buscando Cliente</option>
+                            <option>Inativo no momento</option>
+                        </select>
                     </div>
 
-                    <div class="seta-item">
-                        <svg class="seta1"width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M1 1L3 3L5 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                            </svg>
-                    </div>
+        
                 </div>
 
                 <div class="item">
                     <div class="titulo-painel-1-item">
                         <h2 class="titulo-esquerda-item">Tipo de serviço</h2>
-                        <p class="titulo-esquerda-subitem">Eletrodomesticos </p>
+                        <select>
+                            <option>Eletrodomesticos</option>
+                            <option>Eletronicos</option>
+                        </select>
                     </div>
 
-                    <div class="seta-item">
-                        <svg class="seta2"width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 1L3 3L5 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </div>
+     
                 </div>
 
                 <div class="item">
                     <div class="titulo-painel-1-item">
                         <h2 class="titulo-esquerda-item">Data desejada</h2>
-                        <p class="titulo-esquerda-subitem">11/11/2022 </p>
+                        <input type="date"/>
                     </div>
 
-                    <div class="seta-item">
-                        <svg class="seta3"width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 1L3 3L5 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </div>
+
                 </div>
 
                 <div class="item">
                     <div class="titulo-painel-1-item">
                         <h2 class="titulo-esquerda-item">Distância</h2>
-                        <p class="titulo-esquerda-subitem">Até 2Km </p>
+                        <input type="number" placeholder="Distancia maxima"/>
                     </div>
 
-                    <div class="seta-item">
-                        <svg class="seta4"width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 1L3 3L5 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </div>
+        
                 </div>
 
                 <div class="item">
                     <div class="titulo-painel-1-item">
                         <h2 class="titulo-esquerda-item">Oferta</h2>
-                        <p class="titulo-esquerda-subitem">R$ 500,00</p>
+                        <input type="number" placeholder="Distancia maxima"/>
                     </div>
 
-                    <div class="seta-item">
-                        <svg class="seta1"width="6" height="4" viewBox="0 0 6 4" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M1 1L3 3L5 1" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                        </svg>
-                    </div>
+          
                 </div>
 
                 <div class="item">
@@ -125,7 +112,7 @@
                 </div>
                 <div class="botao">
 
-                    <div type="submit"class="atualizar">
+                    <div type="submit"class="atualizar" onclick="successMessage('Dados atualizados com sucesso!')">
                         Atualizar
                     </div>
 
@@ -142,9 +129,9 @@
                 
 
                 <div class="itens">
-                    <div class="item-resultado">
+                    <div class="item-resultado" onclick="navigate('./sinalizar-CLIENTE.html')">
                         <div class="titulo-painel-2-item">
-                            <h2 class="titulo-direita-item">Roberto</h2>
+                            <h2 class="titulo-direita-item" >Roberto</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de manutenção de eletrodomésticos, pintura e telhado.</p>
                         </div>
 
@@ -161,7 +148,7 @@
                     </div>
 
                     <div class="item-resultado">
-                        <div class="titulo-painel-2-item">
+                        <div class="titulo-painel-2-item" onclick="navigate('./sinalizar-CLIENTE.html')">
                             <h2 class="titulo-direita-item">Carlos</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de manutenção de eletrodomésticos, marcenaria e piscina.</p>
                         </div>
@@ -170,16 +157,14 @@
                             <div class="bairro">
                                 <span>Bairro: olhos d'agua</span>
                             </div>
-
                             <div class="preco">
                                 <span>R$ 20,00 / hora</span>
                             </div>
-                            
                         </div>
                     </div>
 
                     <div class="item-resultado">
-                        <div class="titulo-painel-2-item">
+                        <div class="titulo-painel-2-item" onclick="navigate('./sinalizar-CLIENTE.html')">
                             <h2 class="titulo-direita-item">João</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de conserto de chuveiros, eletrodomésticos e telhado.</p>
                         </div>
@@ -197,7 +182,7 @@
                     </div>
 
                     <div class="item-resultado">
-                        <div class="titulo-painel-2-item">
+                        <div class="titulo-painel-2-item" onclick="navigate('./sinalizar-CLIENTE.html')">
                             <h2 class="titulo-direita-item">Geraldo</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de capinteiro, pintura e telhado.</p>
                         </div>
@@ -215,7 +200,7 @@
                     </div>
 
                     <div class="item-resultado">
-                        <div class="titulo-painel-2-item">
+                        <div class="titulo-painel-2-item" onclick="navigate('./sinalizar-CLIENTE.html')">
                             <h2 class="titulo-direita-item">José</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de manutenção de eletrica, monta armarios e móveis.</p>
                         </div>
@@ -233,7 +218,7 @@
                     </div>
 
                     <div class="item-resultado">
-                        <div class="titulo-painel-2-item">
+                        <div class="titulo-painel-2-item" onclick="navigate('./sinalizar-CLIENTE.html')">
                             <h2 class="titulo-direita-item">Sérgio</h2>
                             <p class="titulo-esquerda-subitem-painel2">Faço serviços de manutenção em maquina de lavar roupa e microondas.</p>
                         </div>
@@ -249,18 +234,9 @@
                             
                         </div>
                     </div>
-    
-
-    
                 </div>
                 </div>
-
             </div>
-
-
         </section>
-
-
-
 </body>
 </html>
